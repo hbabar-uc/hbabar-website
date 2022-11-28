@@ -1,6 +1,6 @@
  [![hugo + netlify](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1656562989/template_1_edyp8b.png)](https://ntl.fyi/3P9w1mr)
 
-# Hugo Quickstart Template   
+# Demo website 
 
 This is a bare-bones Hugo project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
 
@@ -10,19 +10,20 @@ Love reading, here's blog post: https://www.netlify.com/blog/deploy-your-hugo-ap
 
 ## Table of Contents:
 
-- [Quick Setup + Deploy Option](#quick-setup--deploy-option)
-- [Regular Setup](#regular-setup)
-  - [Cloning + Install Packages](#1-cloning--install-packages)
-  - [Deploying](#2-deploying)
-- [Styling](#styling)
-  - [Notes on Styling](#notes-on-styling)
+- [Demo website](#demo-website)
+  - [Table of Contents:](#table-of-contents)
+  - [Quick Setup + Deploy Option](#quick-setup--deploy-option)
+  - [Regular Setup](#regular-setup)
+    - [1. Cloning + Running Locally](#1-cloning--running-locally)
+    - [2. Deploying](#2-deploying)
+  - [Styling](#styling)
+    - [Notes on Styling](#notes-on-styling)
   - [Remove Styling](#remove-styling)
-- [Hugo + Netlify Resources](#hugo--netlify-resources)
-- [Testing](#testing)
-  - [Included Default Testing](#included-default-testing)
-  - [Removing Renovate](#removing-renovate)
-  - [Removing Cypress](#removing-cypress)
-- [Want to learn more?](#want-to-learn-more)
+  - [Hugo + Netlify Resources](#hugo--netlify-resources)
+  - [Testing](#testing)
+    - [Included Default Testing](#included-default-testing)
+    - [Removing Renovate](#removing-renovate)
+    - [Removing Cypress](#removing-cypress)
 
 ## Quick Setup + Deploy Option
 
